@@ -175,7 +175,7 @@ time {
 }
 
 .meida-container {
-	max-width: 550px;
+	max-width: 2048px;
 	margin: auto;
 }
 
@@ -538,10 +538,11 @@ time {
 	font-weight: 700;
 }
 #top-section {
-	background: url(../../images/background/fouth.jpg) 50% 0 no-repeat fixed;
+	background: url(../../images/background/top.jpg) 50% 0 no-repeat fixed;
 	margin: 0 auto;
 	padding: 0;
 	background-position: center;
+	background-size: cover;
 	
 }
 #about-parallax {
